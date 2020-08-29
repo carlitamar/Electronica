@@ -1,4 +1,4 @@
-# Electronica
+# Electronica <<>> Electronics
 Tuvimos que mezclar nuestro conocimiento de electrónica y API y mi equipo creó una pantalla en la que un hombre de figura de palo podía hacer diferentes movimientos de baile en relación con el ritmo de la canción seleccionada por el espectador.
 
 <<>>
